@@ -1,4 +1,3 @@
-// Capturamos el formulario y la tabla de inventario
 const productForm = document.getElementById('product-form');
 const inventoryBody = document.getElementById('inventory-body');
 

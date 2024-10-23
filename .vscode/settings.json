@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5d9663c5-0fed-4831-afc0-32ac74e61998/resourceGroups/PROGRAMACIONWEB/providers/Microsoft.Web/sites/ALMACENISTTUTI",
+    "appService.deploySubpath": "."
+}
